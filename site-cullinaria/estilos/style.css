@@ -10,14 +10,15 @@ body{
 
 main{
     background-color: white;
-    width: 500px;
-    margin: auto;
+    width: 9600px;
+    border: 10px solid #3399cc;
+    margin: 20px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0);
     padding: 10px;
 }
 
 h1 {
-    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color:rgb(0, 112, 56);
 }
 
