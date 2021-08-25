@@ -1,29 +1,43 @@
-*{
-   font-family: Arial, Helvetica, sans-serif;
-   font-size: 20px;
-}
 
-body{
-      background-color: rgb(127, 229, 255);
+   
+
+body{ font-family: arial,verdana,sans-serif;
+    
 
 }
 
-main{
-    background-color: white;
+#page {
+    
     width: 9600px;
     border: 10px solid #3399cc;
     margin: 20px;
-    box-shadow: 3px 3px 5px rgb(0, 0, 0);
-    padding: 10px;
+    padding: 40px;
 }
 
-h1 {
+h1,h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:rgb(0, 112, 56);
+    color:#666666;
 }
 
-h2{
-    font-size: 1.5em;
-    color: rgb(0,112, 56);
+h1{
+    font-family: droidserifbold,Georgia, 'Times New Roman', Times, serif;
+}
+ 
+p {
+     color:#333333;
+     font-size: 90%;
+     line-height: 1.3em;
 }
 
+#navigation {
+               border-top: 1px solid #d6d6d6;
+               border-bottom:1px solid #d6d6d6;
+               padding: 10px opx 10px 0px;
+               margim:20px 0px 0px;
+
+}
+  
+main_image {
+    border:1px solid #000000;
+    margin:0px 10px 10px 0px;
+}
